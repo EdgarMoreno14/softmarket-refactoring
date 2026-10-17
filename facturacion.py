@@ -43,3 +43,4 @@ class Factura:
             "impuestos": total_impuestos,
             "total": total_pagar
         }
+#codigo nuevo para PR
